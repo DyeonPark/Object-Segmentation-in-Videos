@@ -8,8 +8,10 @@ A foolproof way to shrink deep learning models
 
 ![Alt text](/learning_rate_rewinding.png)   
 
- MIT researchers have proposed a technique for shrinking deep learning models that they say is simpler and produces more accurate results than state-of-the-art methods. It works by retraining the smaller, pruned model at its faster, initial learning rate.
-	Image: Alex Renda
+```
+MIT researchers have proposed a technique for shrinking deep learning models that they say is simpler and produces more accurate results than state-of-the-art methods. It works by retraining the smaller, pruned model at its faster, initial learning rate.
+Image: Alex Renda
+```
 
 As more artificial intelligence applications move to smartphones, deep learning models are getting smaller to allow apps to run faster and save battery power. Now, MIT researchers have a new and better way to compress models.   
 
