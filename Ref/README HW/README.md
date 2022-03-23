@@ -6,7 +6,7 @@ A foolproof way to shrink deep learning models
 #### Kim Martineau | MIT Quest for Intelligence
 #### April 30, 2020
 
-![Alt text](/learning_rate_rewinding.png)   
+![Alt text](learning_rate_rewinding.png)   
 *MIT researchers have proposed a technique for shrinking deep learning models that they say is simpler and produces more accurate results than state-of-the-art methods. It works by retraining the smaller, pruned model at its faster, initial learning rate.*   
 *Image: Alex Renda*
 
